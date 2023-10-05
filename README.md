@@ -1,5 +1,5 @@
 # DataBinding
-Fornt-end Frameworks
+Front-end Frameworks
 
 Professor: Marlon Silva Ferreira
 
